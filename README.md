@@ -1,5 +1,5 @@
 # calculator-GUI
-電卓
+電卓のアプリ
 
 目標：
 
